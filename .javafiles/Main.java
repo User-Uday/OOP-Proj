@@ -1,12 +1,12 @@
 import java.util.Scanner;
 import static java.lang.System.out;
-import Inventory.
+import inventory.Inventory;
 
-class orders extends product{
+class Orders{
     
 }
 
-class Manager extends inventory{
+class Manager extends Inventory{
 //object of Manager represents the store manager
 
     void modify_inventory(){
